@@ -1,0 +1,91 @@
+[
+  {
+    "start_time": "9am",
+    "track_a": {
+      "title": "Keynote: There are No Snow Days When You Work Remote",
+      "speaker": {
+        "name": "Jennifer Wadella",
+        "twitter": "likeOMGitsFEDAY",
+        "image": "jennifer-wadella.jpg"
+      }
+    }
+  },
+  {
+    "start_time": "10am",
+    "track_b": {
+      "title": "Just go for it: The story of dance-mat.js",
+      "speaker": {
+        "name": "Ramón Huidobro",
+        "twitter": "hola_soy_milk",
+        "image": "ramon-huidobro.jpg"
+      }
+    }
+  },
+  {
+    "start_time": "11am",
+    "track_a": {
+      "title": "Mo'Problems, Mo'Nads",
+      "speaker": {
+        "twitter": "getify",
+        "name": "Kyle Simpson",
+        "image": "kyle-simpson.jpg"
+      }
+    }
+  },
+  {
+    "start_time": "12pm",
+    "full": {
+      "title": "Lunch",
+      "description": "Get sorted into a lunch group and meet up with 5 other conference attendees to eat lunch together."
+    }
+  },
+  {
+    "start_time": "1pm",
+    "full": {
+      "title": "Lightning Talks",
+      "description": "Hear some lightning talks from the community",
+      "website": "https://docs.google.com/forms/d/e/1FAIpQLScB5p-kHGrYbFBOtocy6XJmubc-Uxq_MuL63UtLMF3BtE039A/viewform",
+      "website_description": "Sign up to give a 5-10 minute talk!"
+    }
+  },
+  {
+    "start_time": "2pm",
+    "track_b": {
+      "title": "Making VR More Interesting With JavaScript and Brain.js",
+      "speaker": {
+        "name": "Milecia McGregor",
+        "twitter": "FlippedCoding",
+        "image": "milecia-mcgregor.jpg"
+      }
+    }
+  },
+  {
+    "start_time": "3pm",
+    "track_a": {
+      "title": "NodeJS, ML, K8s, and Unethical Face Recognition",
+      "speaker": {
+        "name": "Joel Lord",
+        "twitter": "joel__lord",
+        "image": "joel-lord.jpg"
+      }
+    }
+  },
+  {
+    "start_time": "4pm",
+    "track_b": {
+      "title": "Put Down the Javascript - Level Up With the Fundamentals of Web Development",
+      "speaker": {
+        "name": "Colby Fayock",
+        "twitter": "colbyfayock",
+        "image": "colby-fayock.jpg"
+      }
+    }
+  },
+  {
+    "start_time": "5pm",
+    "among": {
+      "title": "Networking",
+      "description": "Join us after the conference for a some networking and a few games of"
+    }
+  }
+]

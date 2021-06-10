@@ -1,0 +1,16 @@
+{
+    "name": "ThunderPlains 2020",
+    "url": "https://2020.thunderplainsconf.com",
+    "author": {
+        "name": "Techlahoma",
+        "email": "info@techlahoma.org",
+        "handle": "@thunderplains"
+    },
+    "images": {
+        "favicon": "/images/favicon.ico"
+    },
+    "social_links": {
+        "twitter": "https://www.twitter.com/thunderplains",
+        "facebook": "https://www.facebook.com/techlahoma"
+    }
+}

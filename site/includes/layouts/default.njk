@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en" class="min-h-full antialiased">
+<head>
+    {# include our meta tags #}
+    {% include "components/meta.njk" %}
+
+<!--     <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+ -->
+    {# include main.css in development mode #}
+    {% if helpers.environment == "development" %}
+    <link rel="stylesheet" href="/css/main.css">
+    {% else %}
+    {# otherwise, use main.min.css #}
+    <link rel="stylesheet" href="/css/main.min.css">
+    {% endif %}
+
+    {# favicon #}
+    <link rel="icon" type="image/png" href="{{ site.images.favicon }}">
+
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.7.0/dist/alpine.min.js" defer></script>
+</head>
+
+<body {% if body_class %} id="{{ body_class }}"{% endif %} class="min-h-full font-sans text-lg text-purple-darkest bg-grey-lightest leading-normal">
+
+    <div id="wrapper" class="wrapper flex flex-col relative min-h-screen">
+
+        {# include header #}
+        {% include "components/header.njk" %}
+
+        {# include content #}
+        {{ content | safe }}
+
+        {# Sticky Banner #}
+        {% include "components/banner.njk" %}
+
+        {# include footer #}
+        {% include "components/footer.njk" %}
+    </div>
+
+    {# include scripts #}
+    {% if helpers.environment == "development" %}
+    <!-- <script src="/javascript/main.js"></script> -->
+    {% else %}
+    <!-- <script src="/javascript/main.min.js"></script> -->
+    {% endif %}
+
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</body>
+</html>

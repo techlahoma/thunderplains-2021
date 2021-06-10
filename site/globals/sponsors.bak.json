@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Gold Sponsors",
+    "level": "gold",
+    "tailwind_color": "yellow-dark",
+    "img_width": 325,
+    "per_row": 2,
+    "companies": [
+      {
+        "name": "Tailwind",
+        "a_href": "https://www.tailwindapp.com",
+        "img_src": "tailwind.png"
+      },
+      {
+        "name": "Heartland Payment Systems",
+        "a_href": "https://www.heartlandpaymentsystems.com",
+        "img_src": "heartland.png"
+      }
+    ]
+  },
+  {
+    "title": "Silver Sponsors",
+    "level": "silver",
+    "tailwind_color": "grey",
+    "img_width": 250,
+    "per_row": 3,
+    "companies": [
+      {
+        "name": "Clevyr",
+        "a_href": "https://clevyr.com",
+        "img_src": "clevyr.png"
+      },
+      {
+        "name": "Addison Group",
+        "a_href": "https://addisongroup.com",
+        "img_src": "addison.png"
+      },
+      {
+        "name": "American Fidelity",
+        "a_href": "https://americanfidelity.com",
+        "img_src": "american-fidelity.png"
+      },
+      {
+        "name": "Hartwig",
+        "a_href": "http://hartwigstaffing.com",
+        "img_src": "hartwig.png"
+      },
+      {
+        "name": "Exaptive",
+        "a_href": "https://www.exaptive.com",
+        "img_src": "exaptive.png"
+      },
+      {
+        "name": "Mozilla",
+        "a_href": "https://www.mozilla.org/en-US/",
+        "img_src": "mozilla.png"
+      }
+    ]
+  },
+  {
+    "title": "Bronze Sponsors",
+    "level": "bronze",
+    "tailwind_color": "yellow-darker",
+    "img_width": 200,
+    "per_row": 4,
+    "companies": [
+      {
+        "name": "Robert-Half Technology",
+        "a_href": "https://www.roberthalf.com/work-with-us/our-services/technology",
+        "img_src": "rht.jpg"
+      },
+      {
+        "name": "Paycom",
+        "a_href": "https://paycom.com",
+        "img_src": "paycom.png"
+      },
+      {
+        "name": "Bluefield Digital",
+        "a_href": "https://bluefielddigital.com",
+        "img_src": "bluefield-digital.png"
+      }
+    ]
+  },
+  {
+    "title": "Local/Community Sponsors",
+    "level": "local",
+    "tailwind_color": "green-darkest",
+    "img_width": 175,
+    "companies": [
+      {
+        "name": "Bitness Labs",
+        "a_href": "https://bitnesslabs.com",
+        "img_src": "bitness-labs.png"
+      },
+      {
+        "name": "Simiancraft",
+        "a_href": "https://www.simiancraft.com",
+        "img_src": "simiancraft.png"
+      }
+    ]
+  }
+]

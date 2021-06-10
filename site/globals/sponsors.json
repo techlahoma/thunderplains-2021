@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Sponsors",
+    "level": "silver",
+    "tailwind_color": "yellow-darker",
+    "img_width": 250,
+    "per_row": 3,
+    "companies": [
+      {
+        "name": "Bitness Labs",
+        "a_href": "https://bitnesslabs.com",
+        "img_src": "bitness-labs.png"
+      },
+      {
+        "name": "Hartwig",
+        "a_href": "http://hartwigstaffing.com",
+        "img_src": "hartwig.png"
+      },
+      {
+        "name": "Robert-Half Technology",
+        "a_href": "https://www.roberthalf.com/work-with-us/our-services/technology",
+        "img_src": "rht.jpg"
+      },
+      {
+        "name": "McGuire Law Firm",
+        "a_href": "https://www.kentmcguirelaw.com/",
+        "img_src": "mcguire-logo-1_large.png"
+      }
+    ]
+  }
+]
