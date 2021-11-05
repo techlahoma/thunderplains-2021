@@ -1,0 +1,122 @@
+[
+  {
+    "track_a": {
+      "title": "The Economy of Keystrokes",
+      "speaker": {
+        "name": "Kyle Simpson"
+      },
+      "year": 2015,
+      "url": "https://www.youtube.com/embed/C_yj4k4QZVI"
+    }
+  },
+  {
+    "track_b": {
+      "title": "Unorthodox Performance",
+      "speaker": {
+        "name": "John-David Dalton"
+      },
+      "year": 2015,
+      "url": "https://www.youtube.com/embed/OP8jdbcDfaA"
+    }
+  },
+  {
+    "track_a": {
+      "title": "Scary Javascript That Knows if You've Been Bad or Good",
+      "speaker": {
+        "name": "Luke Crouch"
+      },
+      "year": 2016,
+      "url": "https://www.youtube.com/embed/0XDpJUhDTos"
+    }
+  },
+  {
+    "track_b": {
+      "title": "Mo'Problems, Mo'Nads",
+      "speaker": {
+        "name": "Kyle Simpson"
+      },
+      "year": 2020,
+      "url": "https://www.youtube.com/embed/bg0Wtz3sR9U"
+    }
+  },
+  {
+    "track_a": {
+      "title": "Put Down the JavaScript: Level Up With the Fundamentals of Web Development",
+      "speaker": {
+        "name": "Colby Fayock"
+      },
+      "year": 2020,
+      "url": "https://www.youtube.com/embed/BqSXvytG9sE"
+    }
+  },
+  {
+    "track_b": {
+      "title": "Set Phasers to JavaScript",
+      "speaker": {
+        "name": "Jesse Harlin"
+      },
+      "year": 2018,
+      "url": "https://www.youtube.com/embed/ZcceLV_5yXY"
+    }
+  },
+  {
+    "track_a": {
+      "title": "CRDT and Other New Ideas for Client Server Communication",
+      "speaker": {
+        "name": "Andrey Sitnik"
+      },
+      "year": 2018,
+      "url": "https://www.youtube.com/embed/yCLiUOODDgQ"
+    }
+  },
+  {
+    "track_b": {
+      "title": "Web Audio Made Easy with Howler JS",
+      "speaker": {
+        "name": "James Simpson"
+      },
+      "year": 2019,
+      "url": "https://www.youtube.com/embed/TxZMeFHFZmA"
+    }
+  },
+  {
+    "track_a": {
+      "title": "High Performance Message Queuing with NATS.io",
+      "speaker": {
+        "name": "David Taylor"
+      },
+      "year": 2019,
+      "url": "https://www.youtube.com/embed/dsW0h5vUe4I"
+    }
+  },
+  {
+    "track_b": {
+      "title": "Real World React.js",
+      "speaker": {
+        "name": "Aaron Murray"
+      },
+      "year": 2014,
+      "url": "https://www.youtube.com/embed/A8G6OBFTYk4"
+    }
+  },
+  {
+    "track_a": {
+      "title": "Where's My Straw?",
+      "speaker": {
+        "name": "Kyle Simpson"
+      },
+      "year": 2013,
+      "url": "https://www.youtube.com/embed/AriOPtO-wXc"
+    }
+  },
+  {
+    "track_b": {
+      "title": "ECMASCript Modules: Fury Road",
+      "speaker": {
+        "name": "John-David Dalton"
+      },
+      "year": 2017,
+      "url": "https://www.youtube.com/embed/60S1PFndbn0"
+    }
+  }
+]
