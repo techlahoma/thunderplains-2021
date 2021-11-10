@@ -44,7 +44,7 @@ title: ThunderPlains 2021
             {% endif %}
           </div>
           <div class="flex flex-row justify-start m-0 px-0 text-right max-w-lg lg:max-w-2xl" style="">
-            <div class="video-frame">
+            <div class="video-frame shadow-md bg-indigo-100">
               <iframe width="350" height="200" src="{{video.track_a.url}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
           </div>
@@ -64,7 +64,7 @@ title: ThunderPlains 2021
             {% endif %}
           </div> 
           <div class="flex flex-row justify-start m-0 px-0 text-left max-w-lg lg:max-w-2xl" style="">
-            <div class="video-frame">
+            <div class="video-frame shadow-md bg-indigo-100">
               <iframe width="350" height="200" src="{{video.track_b.url}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
           </div>
@@ -157,7 +157,7 @@ title: ThunderPlains 2021
     {% for sponsor in sponsorLevel.companies %}
       <div class="flex-1 flex justify-center border-4 border-{{ sponsorLevel.tailwind_color }} text-center w-full md:w-1/2 m-4 p-4" style="min-width: {{ sponsorLevel.img_width }}px">
         <a href="{{ sponsor.a_href }}" target="_blank">
-          <img src="/images/sponsor-logos/{{ sponsor.img_src }}" width="{{ sponsorLevel.img_width }}" /><br />{{ sponsor.name }}
+          <img class="block mx-auto" src="/images/sponsor-logos/{{ sponsor.img_src }}" width="{{ sponsorLevel.img_width }}" /><br />{{ sponsor.name }}
         </a>
       </div>
     {% endfor %}
