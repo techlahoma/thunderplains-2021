@@ -3,7 +3,8 @@
     "track_a": {
       "title": "The Economy of Keystrokes",
       "speaker": {
-        "name": "Kyle Simpson"
+        "name": "Kyle Simpson",
+        "twitter": "getify"
       },
       "year": 2015,
       "url": "https://www.youtube.com/embed/C_yj4k4QZVI"
@@ -13,7 +14,8 @@
     "track_b": {
       "title": "Unorthodox Performance",
       "speaker": {
-        "name": "John-David Dalton"
+        "name": "John-David Dalton",
+        "twitter": "jdalton"
       },
       "year": 2015,
       "url": "https://www.youtube.com/embed/OP8jdbcDfaA"
@@ -23,7 +25,8 @@
     "track_a": {
       "title": "Scary Javascript That Knows if You've Been Bad or Good",
       "speaker": {
-        "name": "Luke Crouch"
+        "name": "Luke Crouch",
+        "twitter": "groovecoder"
       },
       "year": 2016,
       "url": "https://www.youtube.com/embed/0XDpJUhDTos"
@@ -33,7 +36,8 @@
     "track_b": {
       "title": "Mo'Problems, Mo'Nads",
       "speaker": {
-        "name": "Kyle Simpson"
+        "name": "Kyle Simpson",
+        "twitter": "getify"
       },
       "year": 2020,
       "url": "https://www.youtube.com/embed/bg0Wtz3sR9U"
@@ -43,7 +47,8 @@
     "track_a": {
       "title": "Put Down the JavaScript: Level Up With the Fundamentals of Web Development",
       "speaker": {
-        "name": "Colby Fayock"
+        "name": "Colby Fayock",
+        "twitter": "colbyfayock"
       },
       "year": 2020,
       "url": "https://www.youtube.com/embed/BqSXvytG9sE"
@@ -53,7 +58,8 @@
     "track_b": {
       "title": "Set Phasers to JavaScript",
       "speaker": {
-        "name": "Jesse Harlin"
+        "name": "Jesse Harlin",
+        "twitter": "5imian"
       },
       "year": 2018,
       "url": "https://www.youtube.com/embed/ZcceLV_5yXY"
@@ -63,7 +69,8 @@
     "track_a": {
       "title": "CRDT and Other New Ideas for Client Server Communication",
       "speaker": {
-        "name": "Andrey Sitnik"
+        "name": "Andrey Sitnik",
+        "twitter": "sitnikcode"
       },
       "year": 2018,
       "url": "https://www.youtube.com/embed/yCLiUOODDgQ"
@@ -73,7 +80,8 @@
     "track_b": {
       "title": "Web Audio Made Easy with Howler JS",
       "speaker": {
-        "name": "James Simpson"
+        "name": "James Simpson",
+        "twitter": "goldfirestudios"
       },
       "year": 2019,
       "url": "https://www.youtube.com/embed/TxZMeFHFZmA"
@@ -93,7 +101,8 @@
     "track_b": {
       "title": "Real World React.js",
       "speaker": {
-        "name": "Aaron Murray"
+        "name": "Aaron Murray",
+        "twitter": "funkytek"
       },
       "year": 2014,
       "url": "https://www.youtube.com/embed/A8G6OBFTYk4"
@@ -103,7 +112,8 @@
     "track_a": {
       "title": "Where's My Straw?",
       "speaker": {
-        "name": "Kyle Simpson"
+        "name": "Kyle Simpson",
+        "twitter": "getify"
       },
       "year": 2013,
       "url": "https://www.youtube.com/embed/AriOPtO-wXc"
@@ -113,7 +123,8 @@
     "track_b": {
       "title": "ECMASCript Modules: Fury Road",
       "speaker": {
-        "name": "John-David Dalton"
+        "name": "John-David Dalton",
+        "twitter": "jdalton"
       },
       "year": 2017,
       "url": "https://www.youtube.com/embed/60S1PFndbn0"

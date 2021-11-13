@@ -17,6 +17,7 @@
     {# favicon #}
     <link rel="icon" type="image/png" href="{{ site.images.favicon }}">
 
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-rqn26AG5Pj86AF4SO72RK5fyefcQ/x32DNQfChxWvbXIyXFePlEktwD18fEz+kQU" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.7.0/dist/alpine.min.js" defer></script>
 </head>
 
@@ -31,7 +32,7 @@
         {{ content | safe }}
 
         {# Sticky Banner #}
-        {# include "components/banner.njk" #}
+        {% include "components/banner.njk" %}
 
         {# include footer #}
         {% include "components/footer.njk" %}
